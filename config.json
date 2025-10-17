@@ -1,0 +1,9 @@
+{
+  "categorias": {
+    "Documentos": [".pdf", ".docx", ".txt"],
+    "Imágenes": [".jpg", ".jpeg", ".png", ".gif"],
+    "Videos": [".mp4", ".mkv", ".avi"],
+    "Música": [".mp3", ".wav", ".flac"],
+    "Otros": []
+  }
+}
